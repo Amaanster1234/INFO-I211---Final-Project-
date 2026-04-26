@@ -1,0 +1,8 @@
+Test,Variable,Statistic,P_Value,Significant_At_0_05
+ANOVA,BMI across DiabetesStatus groups,5436.169942458786,0.0,True
+Pearson Correlation,BMI and DiabetesStatus,0.2120270211393122,0.0,True
+T-Test,PhysicalActivity and DiabetesStatus,-45.7188998959597,0.0,True
+Chi-Square,HighBloodPressure and DiabetesStatus,15825.17954678162,0.0,True
+Chi-Square,HighCholesterol and DiabetesStatus,9640.98449350311,0.0,True
+Chi-Square,Smoker and DiabetesStatus,503.28356193301806,5.168483211755173e-110,True
+Chi-Square,HeartDiseaseOrAttack and DiabetesStatus,6708.03642156113,0.0,True
