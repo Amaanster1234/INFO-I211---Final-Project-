@@ -158,10 +158,11 @@ This project uses the following Python libraries:
 
 ## Authors
 
-* Amaan Sadiq
-* Sebastian Quebrado-Segura
-* Yusuf Omar
-* Abdul Djama
+* Amaan Sadiq - (Section 1 and Combined all Code)
+* Sebastian Quebrado-Segura (Section 2)
+* Yusuf Omar (Section 3)
+* Abdul Djama (Section 4)
+* All commits and pushes were performed by Amaan to keep the repository organized and prevent confusion. Individual code was written and sent to Amaan to upload 
 
 ---
 
